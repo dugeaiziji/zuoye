@@ -13,7 +13,7 @@ public class BubbleClass {
 			for(int j=i+1;j<unsorted.length;j++){
 				if(unsorted[j]<unsorted[i]){
 					temp = unsorted[j];
-					unsorted[j] = unsorted[i];
+ 					unsorted[j] = unsorted[i];
 					unsorted[i] = temp;
 				}
 			}
