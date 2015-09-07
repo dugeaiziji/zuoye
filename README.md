@@ -6,7 +6,7 @@ public class Divide {
 	private static int result;  
 	public void divide(int num)  
 	{ 
-		 
+		  
 		 
 		result/=num; 
 	}  
